@@ -54,7 +54,7 @@
         <!-- Header -->
           <header id="header">
             <h1>O'znaslchilik davlat korxonasi </h1>
-            <p>O'zbekiston bo'ylab yuqori genotipli chuqur muzlatilgan naslli buqalar urug'larni yetqazib beradi. &nbsp;&bull;&nbsp; </p>
+            <p>O'zbekiston bo'ylab yuqori genotipli chuqur muzlatilgan naslli buqalar urug'larni yetqazib beradi &nbsp;&bull;&nbsp; </p>
             <nav>
               <ul>
               
