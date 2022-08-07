@@ -36,7 +36,7 @@
 
           <div class="inline-block copyright">
             <p class="font-medium text-base text-[rgba(204,204,204,0.7)]">
-              © 2021 Behzod Esonov
+              Â© 2021 Behzod Esonov
             </p>
           </div>
         </footer>
@@ -54,7 +54,7 @@
         <!-- Header -->
           <header id="header">
             <h1>O'znaslchilik davlat korxonasi </h1>
-            <p>O'zbekiston bo'ylab yuqori genotipli chuqur muzlatilgan naslli buqalar urug'larni yetqazib beradi &nbsp;&bull;&nbsp; </p>
+            <p>O'zbekiston bo'ylab yuqori genotipli chuqur muzlatilgan naslli buqalar urug'larni yetqazib beradi. &nbsp;&bull;&nbsp; </p>
             <nav>
               <ul>
               
@@ -69,7 +69,7 @@
 
         <!-- Footer -->
           <footer id="footer">
-            <span class="copyright">© Uznaslchilik- 2022 </span>
+            <span class="copyright">Â© Uznaslchilik- 2022 </span>
           </footer>
 
       </div>
