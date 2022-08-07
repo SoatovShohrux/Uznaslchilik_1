@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Uznaslchilik</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets\css\main.css">
+    <noscript><link rel="stylesheet" href="assets\css\noscript.css"></noscript>
+  </head>
+  <body class="is-preload">
+    <div id="wrapper">
+      <div id="bg"></div>
+      <div id="overlay"></div>
+      
+      
+      
+      
+      
+      <div class="text-center relative">
+        <img class="w-auto z-10 mx-auto pt-6" src="images/hero.png" alt="">
+        <div class="text-scroll text-scroll-left absolute bottom-32 lg:bottom-40 z-[-1]">
+          <h1 class="text-transparent text-[120px] leading-none">
+            Halollik biznesdan ustun! Halollik biznesdan ustun! Halollik
+            biznesdan ustun!
+          </h1>
+        </div>
+        <footer class="container mx-auto fixed bottom-2 pb-6 left-2/4" style="transform: translateX(-50%)">
+          <div class="social-media flex justify-center items-center">
+            <a class="mr-6" href="https://t.me/behzodesonov_blog" target="_blank"><img onmouseover="this.src='images/social/001-telegram-white.svg'" onmouseout="this.src='images/social/001-telegram.svg'" src="images/social/001-telegram.svg" alt=""></a>
+            <a class="mr-6" href="https://www.facebook.com/behzodesonovphotography" target="_blank"><img onmouseover="this.src='images/social/002-facebook-white.svg'" onmouseout="this.src='images/social/002-facebook.svg'" src="images/social/002-facebook.svg" alt=""></a>
+            <a class="mr-6" href="https://www.instagram.com/behzodesonov/" target="_blank"><img onmouseover="this.src='images/social/003-instagram-white.svg'" onmouseout="this.src='images/social/003-instagram.svg'" src="images/social/003-instagram.svg" alt=""></a>
+            <a class="mr-6" href="https://www.youtube.com/channel/UCwGZhHPg4Wh5Sm8KdT_M8yQ" target="_blank"><img onmouseover="this.src='images/social/004-youtube-white.svg'" onmouseout="this.src='images/social/004-youtube.svg'" src="images/social/004-youtube.svg" alt=""></a>
+            <a class="mr-4 glightbox3" href="https://youtu.be/pvGANq3Hq_w" data-type="video"><img onmouseover="this.src='images/icons/play-circle-hover.svg'" onmouseout="this.src='images/icons/play-circle.svg'" src="images/icons/play-circle.svg" alt="play-circle">
+            </a>
+          </div>
+
+          <div class="inline-block copyright">
+            <p class="font-medium text-base text-[rgba(204,204,204,0.7)]">
+              © 2021 Behzod Esonov
+            </p>
+          </div>
+        </footer>
+      </div>
+      
+      
+      
+      
+      
+      
+      
+      <div id="main">
+       
+       
+        <!-- Header -->
+          <header id="header">
+            <h1>O'znaslchilik davlat korxonasi </h1>
+            <p>O'zbekiston bo'ylab yuqori genotipli chuqur muzlatilgan naslli buqalar urug'larni yetqazib beradi &nbsp;&bull;&nbsp; </p>
+            <nav>
+              <ul>
+              
+                <li><a href="https://oznasl2021@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+                <li><a href="https://facebook.com/uznaslchilik" class="icon brands fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="https://instagram.com/uznaslchilik_chorva" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="https://www.youtube.com/channel/UCXLkF2IQQrjotcsm5iSmj1g" class="icon brands fa-youtube"><span class="label">youtube</span></a></li>
+                  <li><a href="https://t.me/uznasl" class="icon brands fa-telegram"><span class="label">Telegram</span></a></li>
+              </ul>
+            </nav>
+          </header>
+
+        <!-- Footer -->
+          <footer id="footer">
+            <span class="copyright">© Uznaslchilik- 2022 </span>
+          </footer>
+
+      </div>
+    </div>
+    <script>
+      window.onload = function() { document.body.classList.remove('is-preload'); }
+      window.ontouchmove = function() { return false; }
+      window.onorientationchange = function() { document.body.scrollTop = 0; }
+    </script>
+  </body>
+</html>
